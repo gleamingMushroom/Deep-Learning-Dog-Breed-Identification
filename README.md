@@ -1,4 +1,4 @@
-[Kaggle Challenge](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/Image-Kaggle.png)
+[!(Kaggle Challenge)](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/Image-Kaggle.png)
 
 _[Kaggle Challenge](https://www.kaggle.com/c/dog-breed-identification/data) - create a classifier capable of determining a dog's breed from a photo_  
 
@@ -38,7 +38,7 @@ _[Kaggle Challenge](https://www.kaggle.com/c/dog-breed-identification/data) - cr
 * [Jupyter Notebook 1](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/DogBreedClassification_InceptionResnetV2_and_Others.ipynb)
 * [Jupyter Notebook 2](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/DogBreedClassification_inception_v3%2Bresnet152.ipynb)  
 
-[Visualize Predictions](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/visualize%20predictions.png)
+[!(Visualize Predictions)](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/visualize%20predictions.png)
 
 
 
