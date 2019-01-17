@@ -32,10 +32,10 @@ _[Kaggle Challenge](https://www.kaggle.com/c/dog-breed-identification/data) - cr
 * File 2 - test.zip - the test set, image file, predict the probability of each breed for each image
 * File 3 - labels.csv - csv file with two columns: id and breed, the breeds for the images in the train set
 
-### [Data Preprocess & Model Development](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/presentation%20slides.pdf)  
+### [Data Preprocessing & Model Development](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/presentation%20slides.pdf)  
 
 
-### Python Coed: 
+### Python Code: 
 * [Jupyter Notebook 1](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/DogBreedClassification_InceptionResnetV2_and_Others.ipynb)
 * [Jupyter Notebook 2](https://github.com/gleamingMushroom/Deep-Learning-Dog-Breed-Identification/blob/master/DogBreedClassification_inception_v3%2Bresnet152.ipynb)  
 
